@@ -1,0 +1,17 @@
+Learning objective:
+Learn the basic of programming via Unity.In this simple project file, there will certain lines and function missing
+The objective is to create this missing function and get the expected output
+
+End objective:
+Able to create a simple 2d shooter game with:
+	-Win/Loss condition
+	-Switchable weapon(Ranged)
+	-Range and melee enemy
+	-Special ability(Dash)
+
+Player Content:
+	-Basic movement
+	-Ability to shoot
+	-Ability to do special move
+	-Health and ability to die
+	-Ability to switch weapon
