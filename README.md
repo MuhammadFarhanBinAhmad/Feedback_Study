@@ -4,7 +4,7 @@ A personal study project exploring how gameplay feedback affects responsiveness,
 
 This project examines how visual, audio, and system feedback contribute to player engagement, and how feedback can be designed to feel clear, timely, and satisfying.
 
-Read more: [your Medium article link]
+Read more: https://medium.com/@Farhan11637/a-short-study-on-gameplay-feedback-76bf0d989af9
 
 ---
 
@@ -57,8 +57,6 @@ The prototype was used to test:
 - the impact of feedback on game feel
 - how feedback can be applied in practice
 - when there is too much feedback
-
-[Add GIFs / clips of the prototype here]
 
 ---
 
@@ -121,10 +119,17 @@ Good feedback takes time, experimentation, and iteration, but it is worth it whe
 ---
 
 ## References
-- Juice it or Lose it
-- Secrets of Game Feel and Juice
-- The Art of Game Design: A Book of Lenses
-- Maths for Game Programmer: Juicing your camera with Maths
-- Basic of Game Design
-- How Jackie Chan takes a hit
-- Jackie Chan’s Kung Fu is “Fake” and that’s okay
+-Juice it or lose it — a talk by Martin Jonasson & Petri Purho:
+https://www.youtube.com/watch?v=Fy0aCDmgnxg
+-Secrets of Game Feel and Juice:
+https://www.youtube.com/watch?v=216_5nu4aVQ&t=128s
+-The Art of Game Design — A Book of Lenses 2nd Edition by Jesse Schell:
+Specifically Chapter 15(Player play games through an interface)
+-Maths for Game Programmer: Juicing your camera with Maths:
+https://www.youtube.com/watch?v=tu-Qe66AvtY
+-Basic of Game Design by Micheal E. Moore:
+Specifically Chapter 12(Interface Design)
+-How Jackie Chan takes a hit
+https://www.youtube.com/watch?v=STyhoKG23b4
+-Jackie Chan’s Kung Fu is “Fake” and that’s okay
+https://www.youtube.com/watch?v=CtbPHmPJB1A
