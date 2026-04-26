@@ -121,15 +121,21 @@ Good feedback takes time, experimentation, and iteration, but it is worth it whe
 ## References
 -Juice it or lose it — a talk by Martin Jonasson & Petri Purho:
 https://www.youtube.com/watch?v=Fy0aCDmgnxg
+
 -Secrets of Game Feel and Juice:
 https://www.youtube.com/watch?v=216_5nu4aVQ&t=128s
+
 -The Art of Game Design — A Book of Lenses 2nd Edition by Jesse Schell:
 Specifically Chapter 15(Player play games through an interface)
+
 -Maths for Game Programmer: Juicing your camera with Maths:
 https://www.youtube.com/watch?v=tu-Qe66AvtY
+
 -Basic of Game Design by Micheal E. Moore:
 Specifically Chapter 12(Interface Design)
+
 -How Jackie Chan takes a hit
 https://www.youtube.com/watch?v=STyhoKG23b4
+
 -Jackie Chan’s Kung Fu is “Fake” and that’s okay
 https://www.youtube.com/watch?v=CtbPHmPJB1A
